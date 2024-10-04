@@ -1,0 +1,11 @@
+
+.card {
+    color: green;
+    border: 4px solid red; /* Borde de 2px y color rojo alrededor de cada tarjeta */
+    border-radius: 8px;    /* Bordes ligeramente redondeados */
+    padding: 16px;         /* Espacio interno dentro de la tarjeta */
+    margin: 16px;          /* Espacio externo entre tarjetas */
+    background-color: #f9f9f9; /* Color de fondo claro */
+    width: 250px;          /* Ancho de cada tarjeta */
+    text-align: center;    /* Centrar el texto dentro de cada tarjeta */
+}
